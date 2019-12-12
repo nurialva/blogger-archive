@@ -1,1 +1,3 @@
 # blogger-archive
+
+Blogger components
