@@ -1,0 +1,6 @@
+      <macro:include id='footer-sections' name='sections'>
+        <macro:param default='2' name='num'/>
+        <macro:param default='footer' name='idPrefix'/>
+        <macro:param default='foot' name='class'/>
+        <macro:param default='false' name='includeBottom'/>
+      </macro:include>
