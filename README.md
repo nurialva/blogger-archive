@@ -1,3 +1,3 @@
 # blogger-archive
 
-Blogger components
+Template to Create Blogger Template 
